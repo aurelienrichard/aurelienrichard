@@ -1,16 +1,21 @@
-## Hi there 👋
+[![banner][banner]][website]
 
-<!--
-**aurelienrichard/aurelienrichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bonjour! I'm Aurélien.
 
-Here are some ideas to get you started:
+### A freelance developer who loves [Svelte](svelte), [TypeScript](typescript), and [Tailwind](tailwind).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Also a tea enthusiast ☕
+
+---
+
+[Website](website) **|** [LinkedIn](linkedin) **|** [Upwork](upwork) **|** [Malt](malt) **|** [Reddit](reddit)
+
+[banner]: https://raw.githubusercontent.com/aurelienrichard/aurelienrichard/main/banner.png
+[typescript]: https://www.typescriptlang.org
+[svelte]: https://svelte.dev
+[tailwind]: https://tailwindcss.com
+[website]: https://aurelienrichard.com
+[linkedin]: https://www.linkedin.com/in/aurelienrichard
+[malt]: https://www.malt.fr/profile/arichard
+[upwork]: https://www.upwork.com/freelancers/~014cbe97ff447cb43d
+[reddit]: https://www.reddit.com/user/aurelienrichard
