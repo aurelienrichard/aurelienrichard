@@ -2,13 +2,13 @@
 
 ## Bonjour! I'm Aurélien.
 
-### A freelance developer who loves [Svelte](svelte), [TypeScript](typescript), and [Tailwind](tailwind).
+### A freelance developer who loves [Svelte][svelte], [TypeScript][typescript], and [Tailwind][tailwind].
 
 #### Also a tea enthusiast ☕
 
 ---
 
-[Website](website) **|** [LinkedIn](linkedin) **|** [Upwork](upwork) **|** [Malt](malt) **|** [Reddit](reddit)
+[Website][website] **|** [LinkedIn][linkedin] **|** [Upwork][upwork] **|** [Malt][malt] **|** [Reddit][reddit]
 
 [banner]: https://raw.githubusercontent.com/aurelienrichard/aurelienrichard/main/banner.png
 [typescript]: https://www.typescriptlang.org
