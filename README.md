@@ -4,7 +4,7 @@
 
 ### A freelance developer who loves [Svelte][svelte], [TypeScript][typescript], and [Tailwind][tailwind].
 
-#### Also a cinephile and tea enthusiast ☕.
+#### Also a cinephile and tea enthusiast ☕
 
 ---
 
