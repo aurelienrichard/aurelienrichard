@@ -10,7 +10,7 @@
 
 [Website][website] **|** [LinkedIn][linkedin] **|** [Upwork][upwork] **|** [Malt][malt] **|** [Reddit][reddit]
 
-[banner]: https://raw.githubusercontent.com/aurelienrichard/aurelienrichard/main/banner.png
+[banner]: https://raw.githubusercontent.com/aurelienrichard/aurelienrichard/main/banner-v2.png
 [typescript]: https://www.typescriptlang.org
 [svelte]: https://svelte.dev
 [tailwind]: https://tailwindcss.com
