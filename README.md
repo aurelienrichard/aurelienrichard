@@ -2,13 +2,13 @@
 
 ## Bonjour! I'm Aurélien.
 
-### A freelance developer who loves [Svelte][svelte], [TypeScript][typescript], and [Tailwind][tailwind].
+### A **Full Stack Developer** who loves [Svelte][svelte], [TypeScript][typescript], and [Tailwind][tailwind].
 
-#### Also a cinephile and tea enthusiast ☕
+#### Also a **cinephile** and **tea enthusiast** ☕
 
 ---
 
-[Website][website] **|** [LinkedIn][linkedin] **|** [Upwork][upwork] **|** [Malt][malt] **|** [Reddit][reddit]
+[Website][website] **|** [LinkedIn][linkedin] **|** [Bluesky][bluesky] **|** [Discord][discord] **|** [Reddit][reddit]
 
 [banner]: https://raw.githubusercontent.com/aurelienrichard/aurelienrichard/main/banner.png
 [typescript]: https://www.typescriptlang.org
@@ -16,6 +16,6 @@
 [tailwind]: https://tailwindcss.com
 [website]: https://aurelienrichard.com
 [linkedin]: https://www.linkedin.com/in/aurelienrichard
-[malt]: https://www.malt.fr/profile/arichard
-[upwork]: https://www.upwork.com/freelancers/~014cbe97ff447cb43d
+[bluesky]: https://bsky.app/profile/aurelienrichard.com
+[discord]: https://discord.gg/XbNScvCAQx
 [reddit]: https://www.reddit.com/user/aurelienrichard
