@@ -1,10 +1,10 @@
 [![banner][banner]][website]
 
-## Bonjour! I'm Aurélien.
+## Bonjour! I'm Aurélien /ɔ.ʁe.ljɛ̃/.
 
-### A **Full Stack Developer** who loves [Svelte][svelte], [TypeScript][typescript], and [Tailwind][tailwind].
+### A _Full Stack Developer_ who loves [Svelte][svelte], [TypeScript][typescript], and [Tailwind][tailwind].
 
-#### Also a **cinephile** and **tea enthusiast** ☕
+#### Also a _cinephile_ and _tea enthusiast_ ☕
 
 ---
 
