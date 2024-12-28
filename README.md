@@ -17,5 +17,5 @@
 [website]: https://aurelienrichard.com
 [linkedin]: https://www.linkedin.com/in/aurelienrichard
 [bluesky]: https://bsky.app/profile/aurelienrichard.com
-[discord]: https://discord.gg/kEZkg3rkga
+[discord]: https://discord.gg/4FGy4Zd45M
 [reddit]: https://www.reddit.com/user/aurelienrichard
