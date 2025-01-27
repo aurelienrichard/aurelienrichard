@@ -1,6 +1,6 @@
 [![banner][banner]][website]
 
-## Bonjour! I'm Aurélien /ɔ.ʁe.ljɛ̃/.
+## Bonjour! I'm Aurélien /ɔ.ʁe.ljɛ̃/
 
 ### A _Full Stack Developer_ who loves [Svelte][svelte], [TypeScript][typescript], and [Tailwind][tailwind].
 
