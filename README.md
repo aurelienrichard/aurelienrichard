@@ -1,21 +1,19 @@
 [![banner][banner]][website]
 
-## Bonjour! I'm Aurélien /ɔ.ʁe.ljɛ̃/
+# 👋Hey! I'm Aurélien /o.ʁe.ljɛ̃/
 
-### A _Full Stack Developer_ who loves [Svelte][svelte], [TypeScript][typescript], and [Tailwind][tailwind].
+### Full Stack Engineer and Independent Consultant.
 
-#### Also a _cinephile_ and _tea enthusiast_ ☕
+I'm passionate about all things web and building digital products. Self-taught, with a background in the hotel and events industry. I firmly believe in keeping things **simple** and _authentic_.
 
----
+I live in northern France. I love Open Source and writing. I'm also a cinephile, sci-fi fan, and tea enthusiast☕
 
-[Website][website] **|** [LinkedIn][linkedin] **|** [Bluesky][bluesky] **|** [Discord][discord] **|** [Reddit][reddit]
+## Let's get in touch!
+
+[Website][website] **|** [LinkedIn][linkedin] **|** [Bluesky][bluesky] **|** [Discord][discord]
 
 [banner]: https://raw.githubusercontent.com/aurelienrichard/aurelienrichard/main/banner.png
-[typescript]: https://www.typescriptlang.org
-[svelte]: https://svelte.dev
-[tailwind]: https://tailwindcss.com
 [website]: https://aurelienrichard.com
 [linkedin]: https://www.linkedin.com/in/aurelienrichard
 [bluesky]: https://bsky.app/profile/aurelienrichard.com
 [discord]: https://discord.gg/SQ5g6XUswr
-[reddit]: https://www.reddit.com/user/aurelienrichard
