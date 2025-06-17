@@ -2,7 +2,7 @@
 
 # 👋 Hey! I'm Aurélien /o.ʁe.ljɛ̃/
 
-### Full Stack Engineer and Independent Consultant.
+### Web Craftsman. Consultant. Advocate for a better internet.
 
 I'm passionate about all things web and building digital products. Self-taught, with a background in the hotel and events industry. I firmly believe in keeping things **simple** and _authentic_.
 
