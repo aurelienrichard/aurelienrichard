@@ -2,7 +2,7 @@
 
 # 👋 Hey! I'm Aurélien /o.ʁe.ljɛ̃/
 
-### Web Craftsman. Consultant. Advocate for a better internet.
+### Web Craftsman & Independent Consultant.
 
 I'm passionate about all things web and building digital products.  
 Self-taught, with a background in the hotel and events industry.  
