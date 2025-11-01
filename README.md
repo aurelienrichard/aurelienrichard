@@ -5,7 +5,7 @@
 ### Web Craftsman & Independent Consultant.
 
 I'm passionate about all things web and building digital products.  
-Self-taught, with a background in the hotel and events industry.  
+Self-taught, with a background in the hotel and event industry.  
 I firmly believe in keeping things **simple** and _authentic_.
 
 I live in northern France. I love Open Source and writing.  
