@@ -8,7 +8,7 @@ I'm passionate about all things web and building digital products.
 Self-taught, with a background in the hotel and event industry.  
 I firmly believe in keeping things _simple_ and **authentic**.
 
-I live in northern France. I love Open Source and writing.  
+I live in northern France. I love Open Source, cooking, and writing.  
 I'm also a cinephile, sci-fi fan, and tea enthusiast ☕
 
 ## Let's get in touch!
