@@ -2,7 +2,7 @@
 
 # 👋 Hey! I'm Aurélien /o.ʁe.ljɛ̃/
 
-### Full Stack Engineer & Independent Consultant.
+### Web Developer & Independent Consultant.
 
 I'm passionate about all things web and building digital products.  
 Self-taught, with a background in the hotel and event industry.  
