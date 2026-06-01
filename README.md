@@ -4,14 +4,14 @@
 
 ### Web Developer & Independent Consultant.
 
-I'm passionate about all things web and building digital products.  
-Self-taught, with a background in the hotel and event industry.  
-I firmly believe in keeping things _simple_ and **authentic**.
+Before I got into building websites, I worked in hotels and events.  
+It taught me what service really means: getting every detail right.  
+Today, I pursue that same goal in everything I do.
 
-I live in northern France. I love Open Source, cooking, and writing.  
+I live in northern France. I love to cook and write.  
 I'm also a cinephile, sci-fi fan, and tea enthusiast ☕
 
-## Let's get in touch!
+## Let's get in touch.
 
 [Website][website] **|** [LinkedIn][linkedin] **|** [Bluesky][bluesky] **|** [Discord][discord]
 
