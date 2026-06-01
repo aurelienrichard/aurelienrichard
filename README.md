@@ -5,7 +5,7 @@
 ### Web Developer & Independent Consultant.
 
 Before I got into building websites, I worked in hotels and events.  
-It taught me what service really means: getting every detail right.  
+It taught me what **service** really means: getting every detail right.  
 Today, I pursue that same goal in everything I do.
 
 I live in northern France. I love to cook and write.  
