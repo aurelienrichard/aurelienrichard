@@ -9,7 +9,7 @@ It taught me what **service** really means: getting every detail right.
 Today, I pursue that same goal in everything I do.
 
 I live in northern France. I love to cook and write.  
-I'm also a cinephile, sci-fi fan, and tea enthusiast ☕
+I'm also a cinephile, sci-fi fan, and tea enthusiast.
 
 ## Let's get in touch.
 
