@@ -2,14 +2,11 @@
 
 # 👋 Hey! I'm Aurélien /o.ʁe.ljɛ̃/
 
-### Web Developer & Independent Consultant.
-
 Before I got into building websites, I worked in hotels and events.  
-It taught me what **service** really means: getting every detail right.  
-Today, I pursue that same goal in everything I do.
+It taught me the rules of **service**: _Every detail matters_. _The experience is everything_.  
+Today, I apply this mindset to everything I do.
 
-I live in northern France. I love to cook and write.  
-I'm also a cinephile, sci-fi fan, and tea enthusiast.
+I live in northern France. I love to cook and write. I'm also a cinephile, sci-fi fan, and tea enthusiast.
 
 ## Let's get in touch.
 
