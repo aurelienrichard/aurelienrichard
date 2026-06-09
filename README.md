@@ -3,7 +3,7 @@
 # 👋 Hey! I'm Aurélien /o.ʁe.ljɛ̃/
 
 Before I got into building websites, I worked in hotels and events.  
-It taught me the rules of **service**: _Every detail matters_. _The experience is everything_.  
+That experience taught me that _every_ detail matters towards an exceptional **service**.  
 Today, I apply this mindset to everything I do.
 
 I live in northern France. I love to cook and write. I'm also a cinephile, sci-fi fan, and tea enthusiast.
