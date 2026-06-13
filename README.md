@@ -2,6 +2,8 @@
 
 # 👋 Hey! I'm Aurélien /o.ʁe.ljɛ̃/
 
+### I build custom websites for service-oriented businesses.
+
 Before I started building websites, I worked in hotels and events.  
 That experience taught me that every detail matters towards an exceptional service.  
 Today, I bring that same mindset to everything I do.
